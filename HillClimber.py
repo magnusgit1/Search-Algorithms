@@ -1,5 +1,6 @@
 
 #Precode used to collect cities and for plots:
+
 import csv
 import matplotlib.pyplot as plt
 import random
