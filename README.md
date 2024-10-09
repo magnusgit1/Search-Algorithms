@@ -6,7 +6,7 @@ Some Searching-algorithms coded in pure Python with matplotlib. This was created
 
 Clone the repository using: git clone https://magnusgit1/Search-Algorithms.git
 
-run whichever algorithm you want with: python <algorithm>.py
+run whichever algorithm you want with: python algorithm.py
 
 ### Installation
 
